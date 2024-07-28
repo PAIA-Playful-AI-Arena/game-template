@@ -1,17 +1,17 @@
-# bomb
-炸彈人小遊戲
+# Game Template
+遊戲範例模版
 
 # 遊戲說明
 
 <br />
 
-控制遊戲角色，放置炸彈，小心不要被炸傷囉。
+控制遊戲角色，
 
 <br />
 
-`遊戲目標` &nbsp;&nbsp;&nbsp;炸倒對手
+`遊戲目標`： 
 
-`失敗條件` &nbsp;&nbsp;&nbsp;生命值歸零
+`失敗條件`：
 
 <br />
 
@@ -19,11 +19,11 @@
 
 <br />
 
-![W-key](/assets/icons/w.svg)&nbsp;&nbsp;&nbsp;往上移動。
-![A-key](/assets/icons/a.svg)&nbsp;&nbsp;&nbsp;往左移動。
-![S-key](/assets/icons/s.svg)&nbsp;&nbsp;&nbsp;往下移動。
-![D-key](/assets/icons/d.svg)&nbsp;&nbsp;&nbsp;往右移動。
-![Z-key](/assets/icons/z.svg)&nbsp;&nbsp;&nbsp;放置炸彈。
+![W-key](/assets/icons/w.svg) 往上移動。
+![A-key](/assets/icons/a.svg) 往左移動。
+![S-key](/assets/icons/s.svg) 往下移動。
+![D-key](/assets/icons/d.svg) 往右移動。
+![Z-key](/assets/icons/z.svg) 放置炸彈。
 
 
 <br />
@@ -36,21 +36,31 @@
 
 <br />
 
-## 遊戲角色
-不可以被破壞
-
-## 牆壁
-不可以被破壞
-
-## 障礙物
-可以被炸彈破壞
+## 遊戲物件
+- 遊戲物件樣式尺寸、功能、注意事項
 
 
-# 自訂關卡地圖
 
+
+# 關卡機制
+- 關卡檔案格式，是否可以自行客製，如何設計？
 <br />
 
-除了 PAIA 提供的關卡，你也可以嘗試自行設計關卡，讓磚塊出現在不同位置來營造更多遊戲樂趣，也可以使用[地圖編輯器](./asset/tool/arkanoid_map_editor.exe)自行編輯地圖。
-
 # 適用賽制
+- `闖關賽`
+- `積分賽`
 - `淘汰賽`
+
+
+# 參考資料
+- 圖檔
+
+
+# 貢獻者
+- 遊戲設計：
+- 遊戲開發：
+- 介面設計：
+- 贊助者：
+
+# 版權說明
+[Copyright@PAIA-Tech.Inc](LICENSE) 
