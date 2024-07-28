@@ -63,4 +63,4 @@
 - 贊助者：
 
 # 版權說明
-Copyright@PAIA-Tech.Inc 
+[Copyright@PAIA-Tech.Inc](LICENSE) 
